@@ -5,7 +5,7 @@
 
 Esse documento tem como objetivo nortear o estudo para a certificação e facilitar futuras consultas.
 
-A estrutura completa das certificações Azure e o modo como elas se correlacionam pode ser encontrado [aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh) ou [aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI). Já a documentação oficial pode ser encontrada [aqui]([Documentação do Azure | Microsoft Learn](https://learn.microsoft.com/pt-br/azure/?product=popular)).
+A estrutura completa das certificações Azure e o modo como elas se correlacionam pode ser encontrado [aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh) ou [aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI). Já a documentação oficial pode ser encontrada [aqui](https://learn.microsoft.com/pt-br/azure/?product=popular).
 
 ## Conteúdo da Certificação
 
@@ -31,3 +31,7 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 - Uma conta Microsoft
 - Um cartão de crédito válido (mesmo que seja possível testar alguns recursos sem custos essa etapa é necessária para que cobranças sejam feitas se recursos pagos forem utilizados)
 	- Contas recém criadas tem um período de avaliação gratuita, mas é importante entender bem a diferenteça entre serviço gratuitos por 12 meses e serviços sempre gratuitos
+
+## Tópicos
+
+- [Conceitos sobre nuvem](topics/cloud-concepts.md)
