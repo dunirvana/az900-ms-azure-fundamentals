@@ -35,3 +35,4 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 ## Tópicos
 
 - [Conceitos sobre nuvem](topics/cloud-concepts.md)
+- [Arquitetura Azure](topics/azure-architecture.md)
