@@ -1,8 +1,8 @@
 ## Máquinas Virtuais
 
-- São a emulação de máquinas físicas, incluindo componentes virtuais como processador, memoria, armazenamento, recursos de rede, etc.
+- São a emulação de máquinas físicas, incluindo componentes virtuais como processador, memória, armazenamento, recursos de rede, etc.
 - São oferecidas como infraestrutura como serviço **(Iaas)** e possuem diferentes tipos de uso.
-- Os tamanhos de uma máquina virtual podemn variar de acordo com seu proposito, na Azure exsite uma classificação para essa definição com os tipo **Propósito geral**, **Computação otimizada**, **Memoria otimizada**, **Armazenamento otimizado**, **GPU** e **Computação de alto desempenho**. Os detalhes podem ser encontrados [aqui](https://learn.microsoft.com/pt-br/azure/virtual-machines/sizes).
+- Os tamanhos de uma máquina virtual podem variar de acordo com seu propósito, na Azure exsite uma classificação para essa definição com os tipo **Propósito geral**, **Computação otimizada**, **Memoria otimizada**, **Armazenamento otimizado**, **GPU** e **Computação de alto desempenho**. Os detalhes podem ser encontrados [aqui](https://learn.microsoft.com/pt-br/azure/virtual-machines/sizes).
 
 ### Dimensionamento
 

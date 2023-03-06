@@ -38,3 +38,4 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 - [Arquitetura Azure](topics/azure-architecture.md)
 - [CLI Azure](topics/azure-cli.md)
 - [Máquinas Virtuais](topics/virtual-machines.md)
+- [Serviços de aplicativo](topics/app-services.md)
