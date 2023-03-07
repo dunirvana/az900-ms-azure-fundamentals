@@ -45,3 +45,4 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 - [Funções Azure](topics/azure-functions.md)
 - [Rede Virtual](topics/virtual-network.md)
 - [Load Balancer](topics/load-balancer.md)
+- [Gateway de Aplicativo](topics/application-gateway.md)
