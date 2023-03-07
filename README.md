@@ -42,3 +42,4 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 - [Instância de Contêiner](topics/container-instances.md)
 - [Kubernetes](topics/kubernetes.md)
 - [Windows Virtual Desktop](topics/windows-virtual-desktop.md)
+- [Funções Azure](topics/azure-functions.md)
