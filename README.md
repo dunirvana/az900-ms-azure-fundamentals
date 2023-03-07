@@ -41,3 +41,4 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 - [Serviços de aplicativo](topics/app-services.md)
 - [Instância de Contêiner](topics/container-instances.md)
 - [Kubernetes](topics/kubernetes.md)
+- [Windows Virtual Desktop](topics/windows-virtual-desktop.md)
