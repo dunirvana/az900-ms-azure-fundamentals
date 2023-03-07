@@ -46,3 +46,4 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 - [Rede Virtual](topics/virtual-network.md)
 - [Load Balancer](topics/load-balancer.md)
 - [Gateway de Aplicativo](topics/application-gateway.md)
+- [VPN Gateway](topics/vpn-gateway.md)
