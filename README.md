@@ -49,4 +49,5 @@ A estrutura completa das certificações Azure e o modo como elas se correlacion
 - [VPN Gateway](topics/vpn-gateway.md)
 - [ExpressRoute](topics/expressroute.md)
 - [Content Delivery Network (CDN)](topics/content-delivery-network.md)
+- [Conta de Armazenamento](topics/storage-account.md)
 
